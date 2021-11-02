@@ -16,7 +16,7 @@ console.log("<ul>")
 
 for (let index = 0; index < konutKredileri.length; index++) {
    console.log("<li>"+konutKredileri[index]+"</li>")
-    
+    z
 }
 
 console.log("</ul>")
